@@ -1,52 +1,15 @@
-# Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+REFERENCE NUMBER : 26007929
+NAME : R.Ragasri 
+Problem Statement: Multiple Intermediaries Reduce Farmers' Earnings and Increase Consumer Prices
 
-## Problem Title
-SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
+Agriculture plays a major role in the economy, and farmers are responsible for producing the food required by society. However, many farmers do not receive fair prices for their agricultural products because of the involvement of multiple intermediaries in the agricultural supply chain. After harvesting, farmers often sell their products to local agents or middlemen, who then sell them to wholesalers, distributors, retailers, and finally to consumers. At every stage, each intermediary adds a profit margin to the product, resulting in a continuous increase in its final selling price.
 
-## Problem Creater's Organization
-Ministry of Consumer Affairs, Food & Public Distribution
+This system creates a significant gap between the price received by farmers and the price paid by consumers. Farmers work hard throughout the cultivation process and invest money in seeds, fertilizers, pesticides, irrigation, labour, and transportation. Despite these efforts and expenses, they often receive only a small portion of the final selling price. In many situations, farmers are forced to sell their products at lower prices because of limited market access, a lack of storage facilities, inadequate transportation, financial difficulties, and insufficient information about current market prices. Perishable agricultural products, such as vegetables, fruits, and flowers, create additional challenges because farmers may have to sell them quickly to avoid spoilage.
 
-## Theme
-Agriculture, FoodTech & Rural Development
+On the other hand, consumers are required to pay higher prices for the same agricultural products because of the additional costs and profit margins introduced by intermediaries. This situation affects both rural farmers and ordinary consumers, particularly low-income families who depend on affordable food prices. The absence of a transparent and efficient marketing system makes it difficult for farmers and consumers to establish direct connections. Furthermore, farmers may not have access to digital platforms, reliable market information, or suitable infrastructure to sell their products directly to buyers.
 
-## Problem Description
-Expected Solution: Create a digital marketplace that:
+The involvement of multiple intermediaries also contributes to delays in the distribution process, increased transportation and handling costs, food wastage, and a lack of transparency in price determination. As a result, farmers struggle to earn a sustainable income, while consumers face increasing expenses for essential agricultural products. This imbalance affects the overall efficiency of the agricultural supply chain and creates difficulties for both producers and consumers.
 
-• Connects farmers/FPOs directly with consumers and bulk buyers.
-• Provides logistics support.
-• Uses AI for demand forecasting and route optimization.
+Therefore, there is a need to develop an efficient, transparent, and farmer-friendly marketing system that reduces unnecessary intermediaries and establishes a direct connection between farmers and consumers. Such a system should enable farmers to sell their products at fair prices while allowing consumers to purchase fresh agricultural products at reasonable prices. It should also provide access to real-time market prices, product availability, secure transactions, and efficient delivery facilities.
 
-Benefits:
-
-• Better prices for farmers.
-• Lower prices for consumers.
-• Reduced supply chain inefficiencies.
-
-## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
-
-## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
-
-## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
-
-## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
-
-## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+The proposed solution aims to reduce the dependency on middlemen, improve farmers' income, minimize unnecessary costs, reduce food wastage, and make agricultural products more affordable for consumers. By improving communication and establishing direct market access, this approach can create a fairer agricultural supply chain in which farmers receive better value for their hard work and consumers benefit from transparent and reasonable pricing.
